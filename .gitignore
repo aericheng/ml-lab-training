@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.pt
+ML/HW8/data/
